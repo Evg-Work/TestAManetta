@@ -1,0 +1,5 @@
+it\ezio\model\ResponseStatus.class
+it\ezio\model\GenericResponse.class
+it\ezio\model\ApiResponse.class
+it\ezio\AreaClientiApplication.class
+it\ezio\controller\AliveController.class
