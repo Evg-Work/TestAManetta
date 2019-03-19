@@ -1,0 +1,1 @@
+-Djava.security.egd=file:/dev/./urandom -jar test-a-manetta.jar & -Djava.security.egd=file:/dev/./urandom -jar test-a-manetta-bis.jar
